@@ -113,8 +113,9 @@ impl Engineer {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-<a href="https://www.linkedin.com/in/maziyarvarahrami"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://www.linkedin.com/in/maziyar-varahrami"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:K3riot@aibitsolutions.com"><img src="https://img.shields.io/badge/AiBitSolutions-000000?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+<a href="mailto:Maziyar.varahrami@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
 </div>
 
