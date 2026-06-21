@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2&text=K3RIoT&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20infra%20that%20doesn't%20go%20down&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/K3RIoT">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Backend+%26+Systems+Engineer;Crypto+Exchange+%26+Trading+Infrastructure;Rust+%2F+TypeScript+%2F+Python;Building+for+production%2C+not+demos." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Embedded+Systems+%7C+Blockchain+%7C+Machine+Learning;14%2B+Years+Bridging+Hardware+%26+Software;Crypto+Exchange+%26+Trading+Infrastructure;From+ARM+Cortex-M+Firmware+to+Solidity+Contracts." alt="Typing SVG" />
 </a>
 
 </div>
@@ -23,25 +23,30 @@
 
 ```rust
 struct Engineer {
-    focus: Vec<&'static str>,
-    builds: Vec<&'static str>,
+    experience_years: u8,
+    domains: Vec<&'static str>,
+    stack: Vec<&'static str>,
     currently: &'static str,
 }
 
 impl Engineer {
     fn new() -> Self {
         Self {
-            focus: vec!["trading systems", "exchange infra", "low-latency backends"],
-            builds: vec!["matching engines", "WebSocket pipelines", "B2B fintech infra"],
-            currently: "shipping a crypto exchange from the ground up",
+            experience_years: 14,
+            domains: vec!["embedded systems", "blockchain infra", "fintech AI"],
+            stack: vec!["ARM Cortex-M firmware", "exchange matching engines", "Solidity contracts"],
+            currently: "founder @ AiBitSolutions — building exchange infra from the ground up",
         }
     }
 }
 ```
 
-- Engineering crypto exchange & trading infrastructure — matching engines, margin/PnL systems, real-time market data
-- Working across the full stack: from Rust performance-critical cores to React/TypeScript trading UIs
-- Into clean architecture, hexagonal design, and systems that survive production traffic
+- 14+ years bridging hardware and software — from PCB design and low-level firmware to full-stack fintech platforms
+- Founder of **AiBitSolutions**: crypto exchange infrastructure, AI-driven trading assistants, real-time market analytics
+- Background in microcontroller-based systems (ARM Cortex-M, STM32, ESP32, AVR) and automotive embedded diagnostics
+- Master's in Computer Hardware Engineering — thesis on Brain-Computer Interfaces (SSVEP)
+- Led cross-functional teams across AI/OR, backend, blockchain, and frontend
+- Speaks 🇬🇧 English · 🇹🇷 Turkish · 🇮🇷 Persian (native)
 - Based in Dubai 🇦🇪
 
 ---
