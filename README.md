@@ -88,9 +88,6 @@ impl Engineer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=K3RIoT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3RIoT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=K3RIoT&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=K3RIoT&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff" width="100%"/>
@@ -105,7 +102,6 @@ impl Engineer {
 <img src="https://raw.githubusercontent.com/K3RIoT/K3RIoT/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> Snake animation activates automatically once the GitHub Action below is set up (see note at the bottom).
 
 ---
 
