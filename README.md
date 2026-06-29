@@ -80,6 +80,10 @@ impl Engineer {
 <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F46800" />
 
+<br/><br/>
+
+<img src="assets/career-pipeline.svg" width="100%" alt="Career pipeline: embedded to web3 to fintech to AI/ML" />
+
 </div>
 
 ---
